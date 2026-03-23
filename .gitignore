@@ -25,3 +25,11 @@ env/
 # Local experiment outputs
 wandb/
 pre_computed_test_devito/
+
+# Keep this repository code-only by default
+*
+!*/
+!.gitignore
+!*.py
+!*.sh
+!*.ipynb
