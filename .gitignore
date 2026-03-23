@@ -1,0 +1,27 @@
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Python cache / environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Experiment artifacts and large binaries
+*.pth
+*.pt
+*.pkl
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.ckpt
+*.onnx
+*.fits
+
+# Local experiment outputs
+wandb/
+pre_computed_test_devito/

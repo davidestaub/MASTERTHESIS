@@ -1,0 +1,5 @@
+Took 11.026476621627808 seconds for 10 sources and 64 points
+Took 113.89986181259155 seconds for 100 sources and 64 points
+Took 112.07670044898987 seconds for 10 sources and 256 points
+Took 1250.5915431976318 seconds for 100 sources and 256 points
+Took 469.110759973526 seconds for 10 sources and 512 points
