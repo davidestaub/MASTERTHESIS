@@ -30,6 +30,7 @@ pre_computed_test_devito/
 *
 !*/
 !.gitignore
+!README.md
 !*.py
 !*.sh
 !*.ipynb
