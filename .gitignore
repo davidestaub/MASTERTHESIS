@@ -33,3 +33,7 @@ pre_computed_test_devito/
 !*.py
 !*.sh
 !*.ipynb
+
+# Keep editor metadata out
+.idea/
+.vscode/
